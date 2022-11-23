@@ -1,0 +1,19 @@
+<Catalogo>
+    <Nombre>Cat&#225;logo 2015</Nombre>
+    <FechaExpiracion>2016-06-03</FechaExpiracion>
+
+    <Productos>
+        <Producto ID="100001">
+            <NombreProducto>Caf&#233; Negro</NombreProducto>
+            <Descripcion>El mejor caf&#233; negro.</Descripcion>
+            <Precio>8500</Precio>
+            <Disponible>true</Disponible>
+        </Producto>
+        <Producto ID="100002">
+            <NombreProducto>Cappuccino</NombreProducto>
+            <Descripcion>Mezcla espumosa de espresso y leche hervida.</Descripcion>
+            <Precio>9500</Precio>
+            <Disponible>true</Disponible>
+        </Producto>
+    </Productos>
+</Catalogo>
